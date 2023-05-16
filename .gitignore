@@ -1,0 +1,19 @@
+# Eclipse
+.project
+.settings
+bin/
+
+# IntelliJ
+*.iml
+.idea
+
+# vi temp files 
+*.swp
+*.swo
+*.swn
+
+# VS Code
+.vscode/
+
+# macOS
+.AppleDouble/
