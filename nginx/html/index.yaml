@@ -6,7 +6,7 @@ entries:
     description: 'My Chart'
     version: 1.0.0
     created: 2023-01-01T00:00:00.000Z
-    appVersion: '22.09-01'
+    appVersion: '22.09_01'
     digest: 2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824
     urls:
     - my-chart-1.0.0.tgz
